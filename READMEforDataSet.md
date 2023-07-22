@@ -3,6 +3,18 @@ Breast cancer is the most common cancer amongst women in the world. It accounts 
 
 I will be detecting \ Classifying breast tumor cells into malignant (cancerous) or benign(non cancerous).The classifying and prediction of these tumors is done using machine learning (with LOGISTIC REGRESSION CLASSIFICATION) and the Breast Cancer Wisconsin (Diagnostic) Dataset. Features are computed from a digitized image of a fine needle aspirate (FNA) invasive biopsy procedure of a sample breast mass. They describe characteristics of the cell nuclei present in the image.
 
+The original sourcing of this dataset is from General Surgery Dept., University of
+	Wisconsin,  Clinical Sciences Center, Madison, WI 53792
+	wolberg@eagle.surgery.wisc.edu
+
+	W. Nick Street, Computer Sciences Dept., University of
+	Wisconsin, 1210 West Dayton St., Madison, WI 53706
+	street@cs.wisc.edu  608-262-6619
+
+	Olvi L. Mangasarian, Computer Sciences Dept., University of
+	Wisconsin, 1210 West Dayton St., Madison, WI 53706
+	olvi@cs.wisc.edu 
+
 This database is also available through https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data?select=data.csv
 
 Also can be found on UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
